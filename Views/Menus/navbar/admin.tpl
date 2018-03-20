@@ -1,0 +1,3 @@
+<a class="dropdown-item waves-effect waves-light" href="{$p_dir}/admins/"><i class="fa fa-user-secret fa-fw" aria-hidden="true"></i>&nbsp;&nbsp;Administradores</a>
+<a class="dropdown-item waves-effect waves-light" href="{$p_dir}/admins/config/"><i class="fa fa-cog fa-fw" aria-hidden="true"></i>&nbsp;&nbsp;Mis datos</a>
+<a class="dropdown-item waves-effect waves-light" href="{$p_dir}/admins/logout/"><i class="fa fa-sign-out fa-fw" aria-hidden="true"></i>&nbsp;&nbsp;Salir</a>                                
